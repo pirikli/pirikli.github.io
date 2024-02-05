@@ -228,8 +228,7 @@ It is plain text with simple syntax. it has some symbols(#, * _, >, !) to *contr
 1. This is first item with link to [<mark>**Pirikli**</mark>](https://github.com/pirikli)
 2. This is second item with with blockquote: <blockquote>This is blockquote inside a list</blockquote>  
 3. This is Third item with **BOLD** and *ITALIC* words.   
-4. This is fourth item with an image <img src="#" alt="image" width="30" height="auto">
-
+4. This is fourth item with an image
 ### Unordered list:
 **Syntax:**     
       use asterisk * or dash -

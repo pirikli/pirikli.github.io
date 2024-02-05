@@ -1,56 +1,32 @@
-# Chirpy Starter
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+<img src="assets\imgs\pilgrim.jpg" alt="Pirikli, a Programming Pilgrim">  
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+**Welcome to my Pilgrimage, where the journey of coding meets the art of <font color='green'>storytelling</font>❗<img src="https://cdn-icons-png.flaticon.com/128/5203/5203821.png" alt="author" width="55" height="auto">**
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## <img src="https://cdn-icons-png.flaticon.com/128/1995/1995562.png" alt="author" width="70" height="auto">About the Author
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+[<img src="https://cdn-icons-png.flaticon.com/128/8112/8112686.png" alt="author" width="30" height="auto">](https://github.com/pirikli)**_<font color="green">irikli</font>_**, Pirikli, a poet, programming pilgrim, storyteller, and fervent believer in the miraculous power of words, embarks on an exhilarating journey into the expansive realm of coding.   
+This repository is a chronicle of his learning journey, carefully curated and shared in markdown format.   
+The author's mission is to pave the way for fellow beginners, leaving behind footprints that guide and inspire.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+## <img src="https://cdn-icons-png.flaticon.com/128/2353/2353678.png" alt="author" width="70" height="auto">Why this pilgrimage?
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+This pilgrimage is more than a repository—it's the story of coding pilgrims navigating through the fascinating world of programming. Through the lens of a storyteller, each piece of code becomes a chapter, every bug a plot twist, and every successful execution a triumphant climax.
 
-## Prerequisites
+## <img src="https://cdn-icons-png.flaticon.com/128/5229/5229460.png" alt="author" width="70" height="auto">You'll Find
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+- **Learning Notes:** Detailed and expressive markdowns capturing the essence of coding discoveries.
+- **Experiences:** Personal accounts of triumphs, challenges, and the thrill of coding exploration.
+- **Guidance for Beginners:** A roadmap for those just starting, with the hope to make the journey smoother.
 
-## Installation
+## <img src="https://cdn-icons-png.flaticon.com/128/5110/5110521.png" alt="author" width="70" height="auto">to Use
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+1. 🚀 Explore the [My backpack🎒](https://pirikli.github.io) for an immersive experience.
+2. 📖 Dive into the markdown files in the repository to unravel the tales of the coding pilgrimage.
+3. 🌐 Connect with the community, share your thoughts, and contribute to the experiences.
 
-Then clone it to your local machine and run:
+## <img src="https://cdn-icons-png.flaticon.com/128/4470/4470914.png" alt="author" width="70" height="auto">the Journey
 
-```console
-$ bundle
-```
+Whether you're a seasoned coder or just starting, Pirikli welcomes you to join the narrative. Every line of code is a verse, and every commit is a turn of the page. Let's craft this coding saga together!
 
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+<img src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" alt="author" width="70" height="auto">[**Visit Pirikli's Website.**](https://pirikli.github.io)

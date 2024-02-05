@@ -11,7 +11,7 @@ mermaid: true
   
   
 
-### <span  style="color:#3498DB"><img  src="https://cdn-icons-png.flaticon.com/128/8133/8133834.png"  width="30"  height="auto"><sup>ere's why I chose to embrace it:</sup></span>
+### <span  style="color:#3498DB"><img  src="https://cdn-icons-png.flaticon.com/128/8133/8133834.png" alt="H"  width="30"  height="auto"><sup>ere's why I chose to embrace it:</sup></span>
 
   
   

@@ -1,9 +1,7 @@
-title: Why I am learning Markdown📝?!
-
+---
+title: Why I am learning Markdown?!
 date: 2024-01-27 08:30:00 +0330
-
 mermaid: true
-
 ---
 
 ## <img  src="https://cdn-icons-png.flaticon.com/128/1570/1570738.png"  alt="discovery"  width="40"  height="auto"><span  style="color:green;">Discovering</span>[Markdown](https://daringfireball.net/projects/markdown/syntax)<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/263px-Markdown-mark.svg.png"  alt="markdown"  width="35"  height="auto"><span  color="#85C1E9"> has transformed🚇</span><span  color="green">my note-taking📝 journey✈️</span>

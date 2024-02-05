@@ -21,7 +21,7 @@ __[Notion](https://www.notion.so/)__ seemed promising with its creativity, innov
     
  
    
-![R](https://cdn-icons-png.flaticon.com/128/13527/13527880.png){: w="80" h="auto" .left}ecently, during my Git learning on [DataCamp](https://datacamp.com), I faced a dilemma – I wasn't taking notes. <ins>The **README.md** file in my Git repository caught my attention</ins>. __An idea struck:__ *use GitHub as a notebook and Markdown as the note-taking tool.* And so, my first note,**"Introduction to Git"**, was born, accessible [Here](https://github.com/pirikli/LearNotes/blob/dev/Intro-to-git.ipynb).     
+![R](https://cdn-icons-png.flaticon.com/128/13527/13527880.png){: w="80" h="auto" .left}ecently, during my Git learning on [DataCamp](https://datacamp.com), I faced a dilemma – I wasn't taking notes. <ins>The **README.md** file in my Git repository caught my attention</ins>. __An idea struck:__ *use GitHub as a notebook and Markdown as the note-taking tool.* And so, my first note,**"Introduction to Git"**, was born, accessible HERE.     
 
 
        

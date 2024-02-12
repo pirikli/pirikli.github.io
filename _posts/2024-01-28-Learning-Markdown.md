@@ -388,9 +388,9 @@ The link title can be wraped in **" ", ' ' & ( )**.
 ### Direct Link:
 ✅**Syntax** ➡️ To quickly convert a URL or email address into a link, wrap it in double angel brackets.
 
-✅**Example** ➡️ `<https:pirikli.github.io>`
+✅**Example** ➡️ `<pirikliartan@gmail.com>`
 
-✅**Output** ➡️ <https:pirikli.github.io>
+✅**Output** ➡️ <pirikliartan@gmail.com>
   
 
 

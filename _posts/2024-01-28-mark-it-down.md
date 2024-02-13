@@ -2,11 +2,11 @@
 title: Mark it down!
 date: 2024-01-27 08:30:00 +0330
 mermaid: true
-toc: true
+comments: true
 ---
 
 
-# <img  src="https://cdn-icons-png.flaticon.com/128/1570/1570738.png"  alt="discovery"  width="40"  height="auto"><span  style="color:green;">Discovering</span>[Markdown](https://daringfireball.net/projects/markdown/syntax)<img  src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg"  alt="markdown"  width="35"  height="auto">{: .dark}<span  color="#85C1E9"> has transformed🚇</span><span  color="green">my note-taking📝 journey✈️</span>**
+# <img  src="https://cdn-icons-png.flaticon.com/128/1570/1570738.png"  alt="discovery"  width="40"  height="auto"><span  style="color:green;">Discovering</span>[Markdown](https://daringfireball.net/projects/markdown/syntax)<img  src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg"  alt="markdown"  width="35"  height="auto">{: .dark}<span  color="#85C1E9"> has transformed🚇</span><span  color="green">my note-taking📝 journey✈️</span>
 
   
   
@@ -49,7 +49,19 @@ It is plain text with simple syntax. it has some symbols(#, * _, >, !) to *contr
 
 
 
-## 1. <img  src="https://cdn-icons-png.flaticon.com/128/4019/4019787.png"  alt="image"  width="30"  height="auto">EADER and its 6 different level:
+## **_<span style="color: #7FB3D5;background-color: #154360; border-radius: 20px">Content Table:</span>_** {#menu}
+
+| [1. Headers](#head1) | [2.Text Styles](#head2) | [3.Paragraphs](#head3) | [4. Blockquotes](#head4) |   
+|---|---|---|---|       
+| [**5. Horizontal Lines**](#head5) | [**6. Code in Markdown**](#head6) | [**7. Links**](#head7) | [**8. Images**](#head8) |   
+| [**9. Lists**](#head9) | [**10. Scaping Characters**](#head10) | [**11. Tables**](#head11) | [**12. Heading IDs**](#head12) |
+| [**13. Footnote**](#head13)| | | |
+
+
+
+
+
+## 1. <img  src="https://cdn-icons-png.flaticon.com/128/4019/4019787.png"  alt="image"  width="30"  height="auto">EADER and its 6 different level: {#head1}
 
 
 1️⃣ First Level Header  
@@ -72,7 +84,6 @@ First Level Header
 Second Level Header
 ---
 ```
-
 
 3️⃣ Third Level Header   
 
@@ -111,8 +122,7 @@ Second Level Header
 
 
 
-
-## 2. Text Styles
+## 2. Text Styles {#head2}
 
 ### **bold:**  
 
@@ -156,13 +166,26 @@ Second Level Header
 >✅**Output**➡️(This is a <sup>SuperScript</sup> text)
 
 
+### <mark>Highlighting</mark>
+
+>✅**Syntax**➡️(`<mark> </mark>`)    
+>✅**Example**➡️(`This is a <mark>Highlighted text.</mark>`)    
+>✅**Output**➡️(This is a <mark>Highlighted text.</mark>)   
+>> The Markdown's own syntax is `==Highlighted text==`.
+But The Markdown All in One(a VSCode extension) and my current Jekyll theme don't support it.     
+
+
+### Strikethrough
+>✅**Syntax**➡️(`~~  ~~`)    
+>✅**Example**➡️(`~~Strikethrough~~`)    
+>✅**Output**➡️(~~Strikethrough~~)  
 
 
 
 
 
 
-## 3. <img  src="https://cdn-icons-png.flaticon.com/128/5771/5771269.png"  alt="paragraph"  width="50"  height="autho">Paragraphs
+## 3. <img  src="https://cdn-icons-png.flaticon.com/128/5771/5771269.png"  alt="paragraph"  width="50"  height="autho">Paragraphs {#head3}
 
 
 
@@ -197,7 +220,8 @@ This is the first line of the second paragraph ☄️☄️
 
 
 
-## 3. <img  src="https://cdn-icons-png.flaticon.com/128/852/852907.png"  alt="blocs"  width="50"  height="auto">Blockquote
+
+## 4. <img  src="https://cdn-icons-png.flaticon.com/128/852/852907.png"  alt="blocs"  width="50"  height="auto">Blockquote {#head4}
 
 ### ❇️Turn a line or a paragraph to a blockquote.
 
@@ -285,7 +309,7 @@ You can also use this <blockquote>inline syntax</blockquote>
 
 
 
-## 4.Horizontal Lines
+## 5.Horizontal Lines {#head5}
 
 3️⃣ or more asterisks (***), dashes (---), or underscores (___)are needed to put horizontal lines between sections or whereever we want.
 ```
@@ -297,7 +321,8 @@ ___
 
 
 
-## 5.Code 
+
+## 6.Code In Markdown {#head6}
 
 ### Inline code
 
@@ -351,8 +376,7 @@ To create Code Blocks, use 3️⃣ backticks(```) or tilde(~~~)before and after 
 
 
 
-## 6.🔗Links:
-
+## 7.🔗Links: {#head7}
   
 ### Inline link:
 
@@ -395,7 +419,8 @@ The link title can be wraped in **" ", ' ' & ( )**.
 
 
 
-## 7. 🖼️Images:
+
+## 8. 🖼️Images: {#head8}
 
 
 ### Inline Image link:
@@ -444,8 +469,7 @@ The link title can be wraped in **" ", ' ' & ( )**.
 
 
 
-
-## 8. 📃Lists
+## 9. 📃Lists {#head9}
 
 ### Ordered list
 
@@ -511,23 +535,49 @@ The link title can be wraped in **" ", ' ' & ( )**.
             * B
   
 
+### Task Lists:  
+
+✅**Syntax**: ➡️ - [ ] task
+
+✅**Example**:⬇️
+```
+- [ ] Wake Up
+- [ ] Get Up
+- [ ] Wash Up
+- [ ] Rush Up
+```
+
+✅**Output**⬇️
+
+- [ ] Wake Up
+- [ ] Get Up
+- [ ] Wash Up
+- [x] Rush Up ❗  
+
+
 
 **Tip**:We can use other markdown syntax inside lists.  
 Juat try it. Learn by doing.
 {: .prompt-tip}   
   
 
-## 9. Scaping Characters:  
+
+
+## 10. Scaping Characters:  {#head10}
 **Backslash(\\)** is for scaping special characters in Markdown.  
 For example, to be able to show backslash itself inside the parentheses above, I put another backslash before it:  
 ```
 Backslash(\\)
 ```
-[**Here**](https://www.markdownguide.org/basic-syntax/#characters-you-can-escape) is the list of other characters to scape.   
+[**Here**](https://www.markdownguide.org/basic-syntax/#characters-you-can-escape) is the list of other characters to scape.    
 
 
 
-## 10.![table](https://cdn-icons-png.flaticon.com/128/4598/4598376.png){: w="30" h="30"}Tables
+ 
+   
+
+
+## 11.![table](https://cdn-icons-png.flaticon.com/128/4598/4598376.png){: w="30" h="30"}Tables {#head11}
 
 ✅**Syntax**:⬇️
 * Pipe(|) is for creating columns.  
@@ -557,9 +607,37 @@ Backslash(\\)
 
 
 
+## 12. Heading IDs {#head12}
+
+ I think about it as "Inner Link" or "IN Page Link".  
+ I usually use it to create "Content Table" and "🦘Jump Up High".   
+  
+✅**Syntax**:⬇️
+
+It's made up of two parts:
+
+- **Custom ID:** This involves using a pound/hashtag sign, immediately followed by a custom ID, both enclosed in curly braces. Place this construction in front of the heading to which you want to refer.
+
+- **Link to Custom ID:** For this, put the heading name inside square brackets right next to the pound sign, with the custom ID enclosed in parentheses.
+
+✅**Example**:⬇️
+```md
+[Here is the Link to that Heading](#heading1)  
+This is a heading we want to refer or link to {#heading1}
+```
+
+✅**Output**⬇️     
+
+[Here is the Link to that Heading](#heading1)  
+This is a heading we want to refer or link to {#heading1} 
 
 
-## 11. Footnotes
+
+
+
+
+
+## 13. Footnotes {#head13}
 
 ✅**Syntax**:⬇️    
 * To make the first part of a Footnote (footnote refrence), we need 3 ingredients:     
@@ -575,13 +653,23 @@ Here is the refrence to second footnote[^second]
 ---
 [^1]: Thi is First Footnote.
 [^second]: Here is the scond Footnote.
-|
 ```
 ✅**Output**⬇️
 
 This is the refrence to the first footnote[^1].  
 Here is the refrence to the second footnote[^second].
 
----
+
 [^1]: **Thi is First Footnote.**
-[^second]: **Here is the scond Footnote.**
+[^second]: **Here is the scond Footnote.**  
+
+
+---
+
+
+[**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#menu){: .right}    
+
+
+
+
+![Work in Progress](https://cdn-icons-png.flaticon.com/128/8024/8024248.png){: .center w="40" h="40"}    

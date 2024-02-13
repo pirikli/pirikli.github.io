@@ -1,18 +1,18 @@
 ---
 title: Mark it down!
 date: 2024-01-27 08:30:00 +0330
-mermaid: true
-comments: true
+categories: [Note-taking, Markdown]
+tags: [coding, learning, note-taking, markdown, markup, markup-language, web, code chronicles, active learning]
 ---
 
 
-# <img  src="https://cdn-icons-png.flaticon.com/128/1570/1570738.png"  alt="discovery"  width="40"  height="auto"><span  style="color:green;">Discovering</span>[Markdown](https://daringfireball.net/projects/markdown/syntax)<img  src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg"  alt="markdown"  width="35"  height="auto">{: .dark}<span  color="#85C1E9"> has transformed🚇</span><span  color="green">my note-taking📝 journey✈️</span>
+# <img  src="https://cdn-icons-png.flaticon.com/128/1570/1570738.png"  alt="discovery"  width="40"  height="auto">Discovering [_Markdown_⬇️](https://www.markdownguide.org/ "Markdown Guide"){:target="_blank"} has <span style="color: blue;">trans</span><span style="color:slateblue;">form</span><span style="color:lightblue;">ed🚇</span> my Learning and Note-taking📝 journey✈️.
 
   
   
 
 
-**<span  style="color:#3498DB"><img  src="https://cdn-icons-png.flaticon.com/128/8133/8133834.png" alt="H"  width="30"  height="auto"><sup>ere's why I chose to embrace it:</sup></span>**
+## <span  style="color:#3498DB"><img  src="https://cdn-icons-png.flaticon.com/128/8133/8133834.png" alt="H"  width="30"  height="auto"><sup>ere's why I chose to embrace [**👉ℹ️t**](https://www.markdowntutorial.com/ "Markdown turorial"){:target="_blank"}:</sup></span>
 
   
   
@@ -21,7 +21,7 @@ comments: true
 
 ![D](https://cdn-icons-png.flaticon.com/128/3570/3570060.png){: w="80" h="auto" .left}uring my **P**ython learning journey, I initially used __Microsoft Word__ for note-taking, but I found it time-consuming and ineffective.
 
-__[Notion](https://www.notion.so/)__ seemed promising with its creativity, innovation, and **AI** tools, but I realized I was spending more time on templates and design than on learning **<span style="color: green;">Python</span> 🐍.**
+__[Notion](https://www.notion.so/)__{:target="_blank"} seemed promising with its creativity, innovation, and **AI** tools, but I realized I was spending more time on templates and design than on learning **<span style="color: green;">Python</span> 🐍.**
 
   
 
@@ -29,7 +29,7 @@ __[Notion](https://www.notion.so/)__ seemed promising with its creativity, innov
 
 ![W](https://cdn-icons-png.flaticon.com/128/8112/8112804.png){: w="80" h="auto" .left}hile everyone emphasized the importance of note-taking, my existing methods were wasting precious time. I would watch tutorials, <mark>take notes, and never revisit them</mark>❗Feeling stuck, I shifted to solely watching tutorials, until I encountered a breakthrough.
 
-![R](https://cdn-icons-png.flaticon.com/128/13527/13527880.png){: w="80" h="auto" .left}ecently, during my Git learning on [DataCamp](https://datacamp.com), I faced a dilemma – I wasn't taking notes. <ins>The **README.md** file in my Git repository caught my attention</ins>. __An idea struck:__  *use GitHub as a notebook and Markdown as the note-taking tool.* And so, my first note,**"Introduction to Git"**, was born, accessible HERE.
+![R](https://cdn-icons-png.flaticon.com/128/13527/13527880.png){: w="80" h="auto" .left}ecently, during my Git learning on [DataCamp](https://datacamp.com){:target="_blank"}, I faced a dilemma – I wasn't taking notes. <ins>The **README.md** file in my Git repository caught my attention</ins>. __An idea struck:__  *use GitHub as a notebook and Markdown as the note-taking tool.* And so, my first note,**"Introduction to Git"**, was born, accessible HERE.
 
   
   
@@ -416,6 +416,13 @@ The link title can be wraped in **" ", ' ' & ( )**.
 
 ✅**Output** ➡️ <pirikliartan@gmail.com>
   
+> **Tip**: We add the `{:target="_blank"}` immediately after the link, in order to open the link in new tab:
+```
+[John Gruber on Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"}
+```
+[John Gruber on Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"}
+{: .prompt-tip}
+
 
 
 
@@ -638,9 +645,6 @@ It's made up of two parts:
 
 
 
-
-
-
 ## 13. Footnotes {#head13}
 
 ✅**Syntax**:⬇️    
@@ -668,5 +672,13 @@ Here is the refrence to the second footnote[^second].
 [^second]: **Here is the scond Footnote.**  
 
 
----
+
+
+
+
 [**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#menu){: .right}
+
+
+
+
+![Code](/assets/img/pilgrim.png "Pirikli, a Programming Pilgrim"){: width="100" height="100"}

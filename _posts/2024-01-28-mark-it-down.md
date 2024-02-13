@@ -622,15 +622,19 @@ It's made up of two parts:
 
 ✅**Example**:⬇️
 ```md
-[Here is the Link to that Heading](#heading1)  
-This is a heading we want to refer or link to {#heading1}
+[Here is the Link to that Heading](#headid5)   
+
+      
+##### This is a heading we want to refer or link to {#headid5}
 ```
 
 ✅**Output**⬇️     
 
-[Here is the Link to that Heading](#heading1)  
-This is a heading we want to refer or link to {#heading1} 
+[Here is the Link to that Heading](#headid5)   
+     
+         
 
+##### This is a heading we want to refer or link to {#headid5} 
 
 
 
@@ -665,11 +669,4 @@ Here is the refrence to the second footnote[^second].
 
 
 ---
-
-
-[**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#menu){: .right}    
-
-
-
-
-![Work in Progress](https://cdn-icons-png.flaticon.com/128/8024/8024248.png){: .center w="40" h="40"}    
+[**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#menu){: .right}

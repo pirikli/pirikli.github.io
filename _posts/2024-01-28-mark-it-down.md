@@ -669,16 +669,14 @@ Here is the refrence to the second footnote[^second].
 
 
 [^1]: **Thi is First Footnote.**
-[^second]: **Here is the scond Footnote.**  
+[^second]: **Here is the scond Footnote.** 
 
-
-
-
-
-
-[**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#menu){: .right}
 
 
 
 
 ![Code](/assets/img/pilgrim.png "Pirikli, a Programming Pilgrim"){: width="100" height="100"}
+
+
+[**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#menu){: .right}
+

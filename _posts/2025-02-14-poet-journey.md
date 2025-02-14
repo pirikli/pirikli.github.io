@@ -1,14 +1,16 @@
 ---
-title: '"AI-Powered Creative Writer & Storyteller – My Journey Back to Passion"'
-description: ' "The inspiring journey of an Azerbaijani poet who rediscovered his passion for writing after being lost in the corporate world. A story of creativity, persistence, and personal growth."'
+title: AI-Powered Creative Writer & Storyteller – My Journey Back to Passion
+description: " The inspiring journey of an Azerbaijani poet who rediscovered his passion for writing after being lost in the corporate world. A story of creativity, persistence, and personal growth."
 image: /assets/images/01-poet.jpg
-keywords: '"AI creative writer, Azerbaijani poet, storytelling journey, passion and persistence, creative writing redemption"'
 date: 2025-02-14 00:06:00 +0330
 categories:
-  - "[creative writing, storytelling, poetry]"
+  - creative writing
+  - storytelling
+  - poetry
 tags: 
 layout: post
 author: Aboutaleb Nasiri Parouch
+keywords: AI creative writer, Azerbaijani poet, storytelling journey, passion and persistence, creative writing redemption
 ---
 
 ![AI-powered creative writer and poet sitting in a garden, writing by hand](../assets/images/01-poet.jpg)

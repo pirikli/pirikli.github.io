@@ -1,8 +1,22 @@
 ---
 title: Mark it down!
 date: 2024-01-27 08:30:00 +0330
-categories: [Note-taking, Markdown]
-tags: [coding, learning, note-taking, markdown, markup, markup-language, web, code chronicles, active learning]
+categories:
+  - Note-taking
+  - Markdown
+tags:
+  - coding
+  - learning
+  - note-taking
+  - markdown
+  - markup
+  - markup-language
+  - web
+  - code
+  - chronicles
+  - active
+  - learning
+layout: post
 ---
 
 

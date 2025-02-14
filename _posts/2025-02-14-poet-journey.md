@@ -1,9 +1,10 @@
 ---
-title: Returning to the Hidden Garden of Eden: A Poet’s Journey of Banishment, Sin, and Redemption.
+title: Returning to the Hidden Garden of Eden;A Poet’s Journey of Banishment, Sin, and Redemption.
 date: 2025-02-14 00:06:00 +0330
 categories: [poet, writer, storyteller]
 tags: [passion, path, journey, interest, poetry, storytelling, creative writing]
 ---
+
 ![](https://www.pirikli.com/wp-content/uploads/2024/10/DALL·E-2024-11-08-02.26.06-A-scene-depicting-a-poet-and-storytellers-journey-through-life.-In-the-foreground-a-man-with-thoughtful-expression-is-sitting-at-a-wooden-desk-surr-1.webp)
 
 **Welcome to my story.** I share it not to disturb your peace but to guide you toward passion—your compass when life leads you astray.

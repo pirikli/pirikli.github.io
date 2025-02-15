@@ -28,7 +28,7 @@ I’ll take you to the **Hidden Garden of Eden**—a place I once called home bu
 
 ---
 
-## Discovering My Literary Paradise: Writing as a  Young Poet
+## Discovering [My](/about/) Literary Paradise: Writing as a  Young Poet
 
 ![Azerbaijani poet discovering his love for writing in a garden paradise](/assets/images/poetjourney/03-eden.png)
 

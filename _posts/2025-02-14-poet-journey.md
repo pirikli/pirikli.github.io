@@ -30,7 +30,7 @@ I’ll take you to the **Hidden Garden of Eden**—a place I once called home bu
 
 ## Discovering My Literary Paradise: Writing as a  Young Poet
 
-![Azerbaijani poet discovering his love for writing in a garden paradise](../assets/images/03-eden.png)
+![Azerbaijani poet discovering his love for writing in a garden paradise](/assets/images/03-eden.png)
 
 Once, I lived in a **literary paradise**. I discovered my love for **writing** in high school—a love so deep, it felt like magic. My beloved, the Word, and I were like two dreamers, rowing a paper boat with a pencil as our oar, across the boundless ocean of imagination. Together, we found the **Garden of Eden**.
 

@@ -1,5 +1,15 @@
-title: Pirikli
-author: Aboutaleb Nasiri Parouch
-description: AI-Enhanced Creative Writer & Storytelling Specialist
+title: "Pirikli's Creative Journey"
+description: "Exploring creativity, writing, and personal growth as an Azerbaijani poet and storyteller."
+author: Pirikli
 theme: minima
+
+minima:
+  social_links:
+    twitter: your_twitter_handle
+    github: pirikli
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
 version: 1.0.1

@@ -1,8 +1,15 @@
 ---
 title: Introduction to Git Version Control
 date: 2025-02-14 21:42:00 +0330
-categories: [Version Control, Git, GitHub]
-tags: [git, github, versio_control]
+categories:
+  - Version Control
+  - Git
+  - GitHub
+tags:
+  - git
+  - github
+  - versio_control
+layout: post
 ---
 # <a id="top"><font color="red">📮Introduction to</font></a>  
 ![Version Control](https://git-scm.com/images/logos/2color-lightbg@2x.png)  

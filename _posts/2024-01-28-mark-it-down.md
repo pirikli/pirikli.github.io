@@ -16,7 +16,7 @@ tags:
   - chronicles
   - active
   - learning
-layout: post
+layout: default
 ---
 
 

@@ -1,19 +1,26 @@
 ---
 title: AI-Powered Creative Writer & Storyteller – My Journey Back to Passion
-description: " The inspiring journey of an Azerbaijani poet who rediscovered his passion for writing after being lost in the corporate world. A story of creativity, persistence, and personal growth."
+description: The inspiring journey of an Azerbaijani poet who rediscovered his passion for writing after being lost in the corporate world. A story of creativity, persistence, and personal growth.
+keywords:
+  - '"AI creative writer, Azerbaijani poet, storytelling journey, passion and persistence, creative writing redemption"'
 image: /assets/images/01-poet.jpg
-date: 2025-02-14 00:06:00 +0330
-categories:
-  - creative writing
-  - storytelling
-  - poetry
-tags: 
-layout: post
 author: Aboutaleb Nasiri Parouch
-keywords: AI creative writer, Azerbaijani poet, storytelling journey, passion and persistence, creative writing redemption
+date: 2025-02-14
+layout: post
+tags:
+  - AI
+  - writing
+  - creativity
+  - storytelling
+  - personal
+  - growth
+  - poetry
+categories:
+  - Writing Journey
+  - Personal Growth
 ---
 
-![AI-powered creative writer and poet sitting in a garden, writing by hand](../assets/images/01-poet.jpg)
+![AI-powered creative writer and poet sitting in a garden, writing by hand](/assets/images/01-poet.jpg)
 
 **Welcome to my story.** I share it not to disturb your peace but to guide you toward passion—your compass when life leads you astray.
 
@@ -23,7 +30,7 @@ I’ll take you to the **Hidden Garden of Eden**—a place I once called home bu
 
 ## Discovering My Literary Paradise: Writing as a Poet
 
-![Azerbaijani poet discovering his love for writing in a garden paradise](../assets/images/03-eden.png)
+![Azerbaijani poet discovering his love for writing in a garden paradise](/assets/images/03-eden.png)
 
 Once, I lived in a **literary paradise**. I discovered my love for **writing** in high school—a love so deep, it felt like magic. My beloved, the Word, and I were like two dreamers, rowing a paper boat with a pencil as our oar, across the boundless ocean of imagination. Together, we found the **Garden of Eden**.
 
@@ -37,7 +44,7 @@ Drawn to the Tree of Work, I bit into its fruit—the relentless pursuit of mone
 
 ## Falling into the Corporate Trap: Losing My Writing Passion
 
-![Poet trapped in an office cubicle, staring out the window, longing to escape](../assets/images/02-banishment.png)
+![Poet trapped in an office cubicle, staring out the window, longing to escape](/assets/images/02-banishment.png)
 
 Leaving university felt like leaving Eden. My passion for writing in Azerbaijani Turkic—a language marginalized in Iran’s education system—offered no path to a stable livelihood. Few people could read or appreciate [Azerbaijani literature](https://ishiq.net/author/pirikliartan), leaving my words to echo unheard and my dreams out of reach.
 
@@ -49,7 +56,7 @@ That was my original sin—the moment I lost my way. I became an exile, trapped 
 
 ## The Search for Purpose: Failing to Replace My Creative Fire
 
-![The search for purpose](../assets/images/04-escape.png)
+![The search for purpose](/assets/images/04-escape.png)
 
 As the weight of routine grew unbearable, I promised myself I’d break free within two years. But two years turned into ten. I became a “hell boy,” trapped in a soul-crushing office that suffocated my spirit and stifled my creativity.
 
@@ -65,7 +72,7 @@ Each path taught me lessons but left me hollow, unable to replace the fire of my
 
 ## Rediscovering My True Calling: Writing as My Path to Freedom
 
-![A lone traveler walking a winding path in the wilderness, seeking direction](../assets/images/05-repentance.png)
+![A lone traveler walking a winding path in the wilderness, seeking direction](/assets/images/05-repentance.png)
 
 Each detour whispered the same truth:  
 "Every path is strewn with struggles and obstacles. There’s no shortcut to success, no escape from the need for time and patience. But only on your true path will passion sustain you."
@@ -79,7 +86,7 @@ My diversions weren’t failures—they were lessons. They taught me that persis
 
 ## Returning to Writing: Finding Redemption in Creativity
 
-![A lush garden with an open notebook and pen, symbolizing creative redemption](../assets/images/06-redemption.png)
+![A lush garden with an open notebook and pen, symbolizing creative redemption](/assets/images/06-redemption.png)
 
 Amid the **corporate grind**, I finally found my way back to the **Hidden Garden of Eden**. Slowly and patiently, I returned to my first love: **writing**.  
 I began to heal myself with the **3 Ps**: **passion**, **patience**, and **persistence**. Each step felt like therapy, reminding me that the journey was the paradise I’d been searching for all along.  
@@ -91,7 +98,7 @@ Now, I walk this path with passion, patience, and persistence, finding happiness
 
 ## A Message to Creatives: Follow Your Passion with Patience
 
-![AI-Enhanced Creative Writer, Storyteller and Poet is guiding other writers who are seeking their passion](../assets/images/07-call.png)
+![AI-Enhanced Creative Writer, Storyteller and Poet is guiding other writers who are seeking their passion](/assets/images/07-call.png)
 
 To all who seek their true path: step boldly forward. The road will teach you to walk, stumble, and rise again. Embrace each challenge—they are the rhythms of your sacred journey.
 

@@ -11,5 +11,7 @@ minima:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+header_pages:
+  - _pages/about.md
 
 version: 1.0.1

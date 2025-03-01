@@ -1,9 +1,9 @@
 ---
 title: How discovering Markdown Transformed My Learning and Note-taking Journey.
 description: Why I Chose Markdown Over Other Note-Taking Methods?
-date: 2025-02-28 22:51:00 +0330
+date: 2024-01-28 08:30:00 +0330
 last_modified_at: 2025-02-28 14:00:00 +0000
-author: Pirikli
+author: Aboutaleb Nasiri Parouch
 layout: post
 categories:
   - Note-taking
@@ -23,7 +23,6 @@ tags:
 comments: true
 published: true
 permalink: /how-markdown-transformed-my-learning/
-canonical_url: pirikli.github.io/mark-it-down/
 toc: true
 image: /assets/images/posts/markit/down.jpg
 ---
@@ -66,7 +65,7 @@ Markdown is ideal for web content, documentation, and note-taking due to its sim
 
 | [**1. Headers**](#head1)          | [**2.Text Formatting**](#head2)          | [**3.Paragraphs & Line Breaks**](#head3) | [**4. Blockquote**](#head4)    |
 | --------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------ |
-| [**5. Horizontal Lines**](#haad5) | [**6. Code Blocks**](#head6)             | [**7. 🔗Links**](#head7)                 | [**8. 🖼️Images**](#head8)     |
+| [**5. Horizontal Lines**](#head5) | [**6. Code Blocks**](#head6)             | [**7. 🔗Links**](#head7)                 | [**8. 🖼️Images**](#head8)     |
 | [**9. 📃Lists**](#head9)          | [**10. Scaping Characters**](#head10)    | [**11. Tables**](#head11)                | [**12. Heading IDs**](#head12) |
 | [**13. Footnote**](#head13)       | [**14. Best Markdown Editors**](#head14) | [**15. Conclusion**](#head15)            |                                |
 

@@ -26,7 +26,7 @@ permalink: /how-markdown-transformed-my-learning/
 toc: true
 image: /assets/images/posts/markit/down.jpg
 ---
-## Why I Chose [**Markdown⬇️**](https://www.markdowntutorial.com/ "Markdown turorial"){:target="_blank"} Over Other Note-Taking Methods:
+
   
 
 ![D](https://cdn-icons-png.flaticon.com/128/3570/3570060.png){: w="80" h="auto" .left}uring my **🅿️**ython learning journey, I initially used __Microsoft Word__ for note-taking, but I found it time-consuming and ineffective.
@@ -44,31 +44,31 @@ __[Notion](https://www.notion.so/)__{:target="_blank"} seemed promising with its
   
   
 
-![M](https://cdn-icons-png.flaticon.com/128/3570/3570071.png){: w="80" h="auto" .left} arkdown has empowered me to create organized notes and actively learn Git. Now, I'm immersed in the practical application of Markdown, <span  style="color:#6495ED;">simultaneously learning and documenting my progress...</span>
+![M](https://cdn-icons-png.flaticon.com/128/3570/3570071.png){: w="80" h="auto" .left} [**ARKDOWN⬇️**](https://www.markdowntutorial.com/ "Markdown turorial"){:target="_blank"}has empowered me to create organized notes and actively learn Git. Now, I'm immersed in the practical application of Markdown, <span  style="color:#6495ED;">simultaneously learning and documenting my progress...</span>
 
   
   
 
 **🚶🏼<span  style="color:#7D6608;">Let's start the journey</span>🧳**
 
-## What is Markdown?
+## What is [Markdown](https://daringfireball.net/projects/markdown/){:target="blank"}?
 
-Markdown is a _sweet_ and _suitable_ way to write content for the web.   
-It is a lightweight markup language with plain-text formatting syntax.   
+Ⓜ️🅰️RKD🅾️WN is a _sweet_ and _suitable_ way to write content for the web🕸️.   
+It is a 🪶lightweight markup language with plain-text formatting syntax.   
 It uses symbols like `#`, `*`, `_`, `>`, and `!` to format text, create headings, lists, paragraphs, and more.   
 Markdown is ideal for web content, documentation, and note-taking due to its simplicity and readability.
 
+**Table of _Contents:_**{#menu}
 
-
-
-## **_<span style="color: #7FB3D5;background-color: #154360; border-radius: 20px">Content Table:</span>_** {#menu}
-
-| [**1. Headers**](#head1)          | [**2.Text Formatting**](#head2)          | [**3.Paragraphs & Line Breaks**](#head3) | [**4. Blockquote**](#head4)    |
-| --------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------ |
-| [**5. Horizontal Lines**](#head5) | [**6. Code Blocks**](#head6)             | [**7. 🔗Links**](#head7)                 | [**8. 🖼️Images**](#head8)     |
-| [**9. 📃Lists**](#head9)          | [**10. Scaping Characters**](#head10)    | [**11. Tables**](#head11)                | [**12. Heading IDs**](#head12) |
-| [**13. Footnote**](#head13)       | [**14. Best Markdown Editors**](#head14) | [**15. Conclusion**](#head15)            |                                |
-
+| [**1. Headers**](#head1)                 | [**9. 📃Lists**](#head9)                 |
+| ---------------------------------------- | ---------------------------------------- |
+| [**2.Text Formatting**](#head2)<br>      | [**10. Scaping Characters**](#head10)    |
+| [**3.Paragraphs & Line Breaks**](#head3) | [**11. Tables**](#head11)                |
+| [**4. Blockquote**](#head4)              | [**12. Heading IDs**](#head12)           |
+| [**5. Horizontal Lines**](#head5)        | [**13. Footnote**](#head13)              |
+| [**6. Code Blocks**](#head6)             | [**14. Best Markdown Editors**](#head14) |
+| [**7. 🔗Links**](#head7)                 | [**15. Conclusion**](#head15)            |
+| [**8. 🖼️Images**](#head8)               |                                          |
 
 
 ## Ⓜ️arkdown ©️heat Sheet
@@ -85,7 +85,7 @@ Markdown is ideal for web content, documentation, and note-taking due to its sim
 	###### Sixth Level Header
 ```
 
-🟰➖Alternate Syntax for H1 and H2:
+🟰➖Alternate Syntax for **H1** & **H2:**
 
 ```md
 	First Level Header
@@ -105,16 +105,15 @@ _**<span style="color:green">Tip:</span>**_
 
 ### 2. Text formatting {#head2}
 
-| Format              | Syntax                       | Example                  | Output                |
-| ------------------- | ---------------------------- | ------------------------ | --------------------- |
-| **Bold**            | `**text**` or `__text__`     | `**Bold Text**`          | **Bold Text**         |
-| _Italic_            | `*text*` or `_text_`         | `*Italic Text*`          | _Italic Text_         |
-| _**Bold & Italic**_ | `***text***` or `___text___` | `***Bold and Italic***`  | _**Bold and Italic**_ |
-| ~~Strikethrough~~   | `~~text~~`                   | `~~Strikethrough~~`      | ~~Strikethrough~~     |
-| Highlighted         | `<mark>text</mark>`          | `<mark>Highlight</mark>` | <mark>Highlight</mark>            |
-| Subscript           | `<sub>text</sub>`            | `Sub<sub>script</sub>`   | Sub<sub>script</sub>           |
-| Superscript         | `<sup>text</sup>`            | `Super<sup>script</sup>` | Super<sup>script</sup>           |
-
+| Format              | Syntax                       | Output                 |
+| ------------------- | ---------------------------- | ---------------------- |
+| **Bold**            | `**text**` or `__text__`     | **Bold Text**          |
+| _Italic_            | `*text*` or `_text_`         | _Italic Text_          |
+| _**Bold & Italic**_ | `***text***` or `___text___` | _**Bold and Italic**_  |
+| ~~Strikethrough~~   | `~~text~~`                   | ~~Strikethrough~~      |
+| Highlighted         | `==Highlight==`              | ==Highlight==          |
+| Subscript           | `<sub>text</sub>`            | Sub<sub>script</sub>   |
+| Superscript         | `<sup>text</sup>`            | Super<sup>script</sup> |
 
 
 
@@ -163,11 +162,11 @@ ___
 ### 6.Code Blocks {#head6}
 
 #### 💠Inline code
-	✅To make codes  visible as they are, we wrap the them in 2️⃣ backticks `` `<br> ` ``
+✅To make codes  visible as they are, we wrap the them in 2️⃣ backticks `` `<br> ` ``
 
 #### 💠Code Blocks
 
-	✅To create Code Blocks, use 3️⃣ backticks(```) or tilde(~~~)before and after the code snippet, and provide the language name after initial backtics, in order to _Highlight the code syntax_.
+✅To create Code Blocks, use 3️⃣ backticks(```) or tilde(~~~)before and after the code snippet, and provide the language name after initial backtics, in order to _Highlight the code syntax_.
 
 ```
    ```html
@@ -322,6 +321,10 @@ Obsidian isn't just a Markdown editor—it’s a **second brain** for creatives.
 Switching to Markdown has revolutionized my learning experience. It allows me to take structured notes, integrate them with GitHub, and focus on learning instead of formatting. Whether you’re documenting your programming journey or writing blog posts, Markdown is a game-changer!
 
 🔗 **Start your [Markdown](https://www.markdownguide.org/) journey today!**
+**➕Share your experience below in comments:**
+➖Which Markdown Editor do you use and why?
+➖Do you prefer other writing tools over Markdown? why?
+➖🟣🟣🟣
 
 [**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#menu)
 

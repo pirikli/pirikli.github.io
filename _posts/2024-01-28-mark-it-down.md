@@ -58,7 +58,7 @@ It is a 🪶lightweight markup language with plain-text formatting syntax.
 It uses symbols like `#`, `*`, `_`, `>`, and `!` to format text, create headings, lists, paragraphs, and more.   
 Markdown is ideal for web content, documentation, and note-taking due to its simplicity and readability.
 
-**Table of _Contents:_**{#menu}
+**Table of _Contents:_** {#top}
 
 | [**1. Headers**](#head1)                 | [**9. 📃Lists**](#head9)                 |
 | ---------------------------------------- | ---------------------------------------- |
@@ -326,6 +326,6 @@ Switching to Markdown has revolutionized my learning experience. It allows me to
 ➖Do you prefer other writing tools over Markdown? why?
 ➖🟣🟣🟣
 
-[**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#menu)
+[**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#top)
 
 

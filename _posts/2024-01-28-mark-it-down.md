@@ -320,12 +320,13 @@ Obsidian isn't just a Markdown editor—it’s a **second brain** for creatives.
 
 Switching to Markdown has revolutionized my learning experience. It allows me to take structured notes, integrate them with GitHub, and focus on learning instead of formatting. Whether you’re documenting your programming journey or writing blog posts, Markdown is a game-changer!
 
-🔗 **Start your [Markdown](https://www.markdownguide.org/) journey today!**
-**➕Share your experience below in comments:**
-➖Which Markdown Editor do you use and why?
-➖Do you prefer other writing tools over Markdown? why?
-➖🟣🟣🟣
+🔗 **Start your [Markdown](https://www.markdownguide.org/) journey today!**   
+**➕Share your experience below in comments:**   
+➖Which Markdown Editor do you use and why?   
+➖Do you prefer other writing tools over Markdown? why?      
+➖🟣🟣🟣   
 
 [**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#top)
 
+{% raw %}{% include disqus_comments.html %}{% endraw %}
 

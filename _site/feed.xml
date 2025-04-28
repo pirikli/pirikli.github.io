@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Pirikli</title>
   <subtitle>Exploring the intersection of AI, storytelling, and creative writing.</subtitle>
-  <updated>2025-04-29T02:30:58+03:30</updated>
+  <updated>2025-04-29T02:50:10+03:30</updated>
   <author>
     <name>Aboutaleb Nasiri Parouch</name>
     <uri>http://localhost:4000/</uri>
@@ -17,32 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>AI-Powered Creative Writer &amp; Storyteller – My Journey Back to Passion</title>
-    <link href="http://localhost:4000/posts/poet-journey/" rel="alternate" type="text/html" title="AI-Powered Creative Writer &amp;amp; Storyteller – My Journey Back to Passion" />
-    <published>2025-02-28T22:51:00+03:30</published>
-  
-    <updated>2025-04-29T02:25:29+03:30</updated>
-  
-    <id>http://localhost:4000/posts/poet-journey/</id>
-    <content type="text/html" src="http://localhost:4000/posts/poet-journey/" />
-    <author>
-      <name>Aboutaleb Nasiri Parouch</name>
-    </author>
-
-  
-    
-    <category term="Writing Journey" />
-    
-    <category term="Personal Growth" />
-    
-  
-
-  <summary>The inspiring journey of an Azerbaijani poet who rediscovered his passion for writing after being lost in the corporate world. A story of creativity, persistence, and personal growth.</summary>
-
-  </entry>
 
   
   <entry>

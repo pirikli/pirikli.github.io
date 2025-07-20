@@ -23,7 +23,6 @@ tags:
 comments: true
 published: true
 toc: true
-image: /assets/images/posts/markit/down.jpg
 ---
 
 ![D](https://cdn-icons-png.flaticon.com/128/3570/3570060.png){: w="80" h="auto" .left}uring my **🅿️**ython learning journey, I initially used __Microsoft Word__ for note-taking, but I found it time-consuming and ineffective.

@@ -1,5 +1,5 @@
 ---
-title: How discovering Markdown Transformed My Learning and Note-taking Journey.
+title: How discovering Markdown Transformed My Learning and Note-taking Journey
 description: Why I Chose Markdown Over Other Note-Taking Methods?
 date: 2024-01-28 08:30:00 +0330
 last_modified_at: 2025-02-28 14:00:00 +0000
@@ -8,31 +8,22 @@ layout: post
 categories:
   - Note-taking
   - Markdown
+  - learning
 tags:
-  - coding
-  - learning
-  - note-taking
   - markdown
-  - markup
   - markup-language
-  - web
-  - code
-  - chronicles
-  - active
-  - learning
+  - writing
 comments: true
 published: true
-toc: true
 permalink: /how-markdown-transformed-my-learning/
+toc: true
+image: /assets/images/posts/markit/down.jpg
 ---
-
 ![D](https://cdn-icons-png.flaticon.com/128/3570/3570060.png){: w="80" h="auto" .left}uring my **🅿️**ython learning journey, I initially used __Microsoft Word__ for note-taking, but I found it time-consuming and ineffective.
 
 __[Notion](https://www.notion.so/)__{:target="_blank"} seemed promising with its creativity, innovation, and **AI** tools, but I realized I was spending more time on templates and design than on learning **<span style="color: green;">Python</span> 🐍.**
 
   
-
-
 
 ![W](https://cdn-icons-png.flaticon.com/128/8112/8112804.png){: w="80" h="auto" .left}hile everyone emphasized the importance of note-taking, my existing methods were wasting precious time. I would watch tutorials, <mark>take notes, and never revisit them</mark>❗Feeling stuck, I shifted to solely watching tutorials, until I encountered a breakthrough.
 
@@ -326,4 +317,3 @@ Switching to Markdown has revolutionized my learning experience. It allows me to
 [**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#top)
 
 {% raw %}{% include disqus_comments.html %}{% endraw %}
-

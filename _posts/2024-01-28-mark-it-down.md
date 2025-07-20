@@ -15,7 +15,7 @@ tags:
   - writing
 comments: true
 published: true
-permalink: /how-markdown-transformed-my-learning/
+permalink: /posts/how-markdown-transformed-my-learning/
 toc: true
 image: /assets/images/posts/markit/down.jpg
 ---

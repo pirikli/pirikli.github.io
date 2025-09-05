@@ -1,0 +1,48 @@
+name: Deploy Hugo site to GitHub Pages
+
+# Trigger workflow on push to main branch
+on:
+  push:
+    branches:
+      - main
+
+# Required permissions for workflow
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the repository, including submodules
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      # 2. Install Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      # 3. Build the Hugo site
+      - name: Build Hugo site
+        run: hugo --minify
+
+      # 4. Deploy to GitHub Pages using personal access token
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PAT }}   # Use your Personal Access Token here
+          publish_dir: ./public
+          publish_branch: gh-pages
+          force_orphan: true                   # Ensures clean branch deployment
+          user_name: "Pirikli"
+          user_email: "your-email@example.com" # Replace with your GitHub email
+          commit_message: "Deploy Hugo site to GitHub Pages [skip ci]"

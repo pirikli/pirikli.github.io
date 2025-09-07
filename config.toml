@@ -1,0 +1,122 @@
+baseURL = "https://pirikli.github.io/"
+languageCode = "en-us"
+title = "Pirikli"
+theme = "PaperMod"
+
+relativeURLs = true
+canonifyURLs = true
+
+# -----------------------
+# Site Parameters
+# -----------------------
+[params]
+  author = "Pirikli"
+  description = "AI-Augmented Creative Writer & Storyteller"
+  defaultTheme = "auto"          # Light/Dark mode toggle
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  homeInfoParams = true
+  ShowToc = true                 # Enable Table of Contents
+  mainSections = ["posts","episodes"]
+
+  # -----------------------
+  # Profile Mode
+  # -----------------------
+  [params.profileMode]
+    enabled = true
+    title = "Pirikli"
+    subtitle = "AI-Augmented Storyteller"
+    imageUrl = "images/profile.jpg"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Pirikli"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about/"
+
+    [[params.profileMode.buttons]]
+      name = "Contact"
+      url = "/contact/"
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/posts/"
+
+    [[params.profileMode.buttons]]
+      name = "Episodes"
+      url = "/episodes/"
+
+# -----------------------
+# Assets - CSS
+# -----------------------
+
+
+# -----------------------
+# Markup / Rendering
+# -----------------------
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      table = true
+      linkify = true
+      strikethrough = true
+      taskList = true
+      typographer = true
+      autoHeadingID = true
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
+# -----------------------
+# Pagination
+# -----------------------
+paginate = 5
+paginatePath = "page"
+
+# -----------------------
+# SEO / Social Sharing
+# -----------------------
+[params.seo]
+  enable = true
+  twitter = "https://x.com/pirikli"
+  facebook = "https://facebook.com/pirikli"
+  image = "images/seo-share.jpg"
+  keywords = ["AI Storytelling","Creative Writing","Episodes","Blog","Pirikli"]
+  description = "Explore AI-augmented storytelling, episodes, and creative experiments by Pirikli."
+
+# -----------------------
+# Menu Items
+# -----------------------
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "episodes"
+    name = "Episodes"
+    url = "/episodes/"
+    weight = 4

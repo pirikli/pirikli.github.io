@@ -18,8 +18,8 @@ showPostNavLinks = true
 # SEO / Social Sharing
 # -----------------------
 [seo]
-twitter = "YourTwitterHandle"
-facebook = "https://facebook.com/yourpage"
+twitter = "pirikli"
+facebook = "https://facebook.com/pirikli"
 image = "images/episode-zero-share.jpg"
 keywords = ["storytelling journey", "creative writing", "finding purpose", "self-discovery", "life path"]
 description = "Discover how a boy saved by a story became a storyteller, finding his true path in life and creativity."
@@ -65,3 +65,4 @@ Un garçon sauvé par une histoire.
 
 ---
 {{< instagram "DNyKSpW0JXg" >}}
+

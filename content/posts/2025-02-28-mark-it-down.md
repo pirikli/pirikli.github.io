@@ -1,9 +1,36 @@
 +++
-title = "How discovering Markdown Transformed My Learning and Note-taking Journey"
-date = "2025-02-28 08:30:00 +0330"
-draft = false
-toc = true
+# -----------------------
+# Basic Info
+# -----------------------
+title = "Mark It Down: Using Markdown & GitHub for Learning"   # SEO-friendly, descriptive, human-readable
+subtitle = "A practical guide to taking notes efficiently with Markdown and GitHub"  # Optional subtitle to hook readers
+date = "2025-09-08T02:21:01+03:30"   # Keep original creation date
+draft = false                        # Set to false since ready to publish
+description = "Learn how to use Markdown and GitHub to take organized notes and enhance your learning workflow."  # SEO snippet, 150 characters
+tags = ["markdown","git","note-taking","productivity","learning"]  # Relevant keywords for internal search
+categories = ["posts"]               # Keeps it in the blog posts section
+ShowToc = true                       # Table of Contents for easier navigation
+showReadingTime = true               # Show estimated reading time
+showBreadCrumbs = true               # Display breadcrumbs for navigation
+showPostNavLinks = true              # Show previous/next navigation links
+
+# -----------------------
+# SEO / Social Sharing
+# -----------------------
+[seo]
+twitter = "pirikli"                   # Your Twitter handle
+facebook = "https://www.facebook.com/pirikli"  # Facebook page
+image = "images/posts/markdown-guide-share.jpg" # Custom share image
+keywords = ["Markdown tutorial","Git notes","Learning tips","Productivity hacks","Note-taking workflow"] # SEO keywords
+description = "Organize your learning with Markdown and GitHub: structured note-taking, productivity, and programming workflow guide." # Optional override for SEO
+
+# -----------------------
+# Extra Metadata
+# -----------------------
+aliases = ["/2025-02-28-mark-it-down/"]   # Redirect old URL if needed
+slug = "mark-it-down-markdown-github"     # URL-friendly slug for SEO and readability
 +++
+
 
 <img src="https://cdn-icons-png.flaticon.com/128/3570/3570060.png" alt="D" width="40" height="40" style="vertical-align: middle; margin-right: 5px;" />uring my **🅿️**ython learning journey, I initially used __Microsoft Word__ for note-taking, but I found it time-consuming and ineffective.
 
@@ -301,5 +328,5 @@ Switching to Markdown has revolutionized my learning experience. It allows me to
 
 [**<span style="background-color: black; color: orange; border-radius: 25px;">🦘Jump Up High</span>**](#top)
 
-{% raw %}{% include disqus_comments.html %}{% endraw %}
+
 

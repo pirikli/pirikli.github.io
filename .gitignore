@@ -1,3 +1,11 @@
-public/
-resources/
-.hugo_build.lock
+# Hugo build artifacts
+/public
+/resources
+/.hugo_build.lock
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/

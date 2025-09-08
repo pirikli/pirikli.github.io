@@ -18,8 +18,8 @@ showPostNavLinks = true
 # SEO / Social Sharing
 # -----------------------
 [seo]
-twitter = "YourTwitterHandle"
-facebook = "https://facebook.com/yourpage"
+twitter = "pirikli"
+facebook = "https://facebook.com/pirikli"
 image = "images/prelude-episode-two-share.jpg"
 keywords = ["storytelling journey", "childhood village", "imagination roots", "Pirik", "creative journey"]
 description = "Revisit Pirik, the village of my childhood, as I reflect on memories that shaped my imagination and set the stage for Episode Two."

@@ -18,8 +18,8 @@ showPostNavLinks = true
 # SEO / Social Sharing
 # -----------------------
 [seo]
-twitter = "YourTwitterHandle"
-facebook = "https://facebook.com/yourpage"
+twitter = "pirikli"
+facebook = "https://facebook.com/pirikli"
 image = "images/episode-one-share.jpg"
 keywords = ["storytelling journey", "imagination exploration", "creative writing", "hidden doors", "living stories"]
 description = "Dive into Episode One of my storytelling journey, where imagination leads, hidden doors await, and the adventure truly begins."

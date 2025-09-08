@@ -18,8 +18,8 @@ showPostNavLinks = true
 # SEO / Social Sharing
 # -----------------------
 [seo]
-twitter = "YourTwitterHandle"
-facebook = "https://facebook.com/yourpage"
+twitter = "pirikli"
+facebook = "https://facebook.com/pirikli"
 image = "images/episode-two-share.jpg"
 keywords = ["storytelling journey", "childhood inspiration", "folk tales", "Qahraman Qaytaran", "imagination exploration"]
 description = "Dive into Episode Two, where childhood folk tales and family stories spark the journey of becoming a storyteller."
@@ -89,4 +89,4 @@ Le voyage d’apprentissage, de rêve… et de création d’histoires continue.
 
 ---
 
-{{< instagram "PUT_REEL_ID_HERE" >}}
+{{< instagram "DOSYjUEiJiB" >}}

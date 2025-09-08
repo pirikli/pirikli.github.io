@@ -18,8 +18,8 @@ showPostNavLinks = true          # Enable previous/next post navigation
 # SEO / Social Sharing
 # -----------------------
 [seo]
-twitter = "YourTwitterHandle"       # Replace with your Twitter handle
-facebook = "https://facebook.com/yourpage"  # Replace with Facebook page
+twitter = "pirikli"       # Replace with your Twitter handle
+facebook = "https://facebook.com/pirikli"  # Replace with Facebook page
 image = "images/seo-share.jpg"     # Path to social sharing image
 keywords = []                       # Episode-specific SEO keywords
 description = ""                    # Optional SEO description override

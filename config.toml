@@ -2,9 +2,23 @@ baseURL = "https://pirikli.github.io/"
 languageCode = "en-us"
 title = "Pirikli"
 theme = "PaperMod"
-
+defaultContentLanguage = "en"
 relativeURLs = true
 canonifyURLs = true
+
+# -----------------------
+# Languages
+# -----------------------
+#[languages]
+#  [languages.en]
+#    title = "Pirikli"
+#    languageName = "English"
+#    weight = 1
+#
+#  [languages.fr]
+#    title = "Pirikli FR"
+#    languageName = "Français"
+#    weight = 2
 
 # -----------------------
 # Site Parameters
@@ -12,46 +26,48 @@ canonifyURLs = true
 [params]
   author = "Pirikli"
   description = "AI-Augmented Creative Writer & Storyteller"
-  defaultTheme = "auto"          # Light/Dark mode toggle
+  defaultTheme = "auto"
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
+  ShowShareButtons = true
   homeInfoParams = true
-  ShowToc = true                 # Enable Table of Contents
+  ShowToc = true
   mainSections = ["posts","episodes"]
 
-  # -----------------------
-  # Profile Mode
-  # -----------------------
-  [params.profileMode]
-    enabled = true
-    title = "Pirikli"
-    subtitle = "AI-Augmented Storyteller"
-    imageUrl = "images/profile.jpg"
-    imageWidth = 120
-    imageHeight = 120
-    imageTitle = "Pirikli"
+# -----------------------
+# Profile Mode
+# -----------------------
+[params.profileMode]
+  enabled = true
+  title = "Pirikli"
+  subtitle = "AI-Augmented Storyteller"
+  imageUrl = "images/profile.jpg"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "Pirikli"
 
-    [[params.profileMode.buttons]]
-      name = "About"
-      url = "/about/"
+  [[params.profileMode.buttons]]
+    name = "About"
+    url = "/about/"
 
-    [[params.profileMode.buttons]]
-      name = "Contact"
-      url = "/contact/"
+  [[params.profileMode.buttons]]
+    name = "Contact"
+    url = "/contact/"
 
-    [[params.profileMode.buttons]]
-      name = "Blog"
-      url = "/posts/"
+  [[params.profileMode.buttons]]
+    name = "Blog"
+    url = "/posts/"
 
-    [[params.profileMode.buttons]]
-      name = "Episodes"
-      url = "/episodes/"
+  [[params.profileMode.buttons]]
+    name = "Episodes"
+    url = "/episodes/"
 
 # -----------------------
 # Assets - CSS
 # -----------------------
-
+[params.assets]
+  customCSS = ["css/custom.css"]
 
 # -----------------------
 # Markup / Rendering
@@ -59,16 +75,16 @@ canonifyURLs = true
 [markup]
   defaultMarkdownHandler = "goldmark"
 
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-    [markup.goldmark.extensions]
-      table = true
-      linkify = true
-      strikethrough = true
-      taskList = true
-      typographer = true
-      autoHeadingID = true
+  [markup.goldmark.renderer]
+    unsafe = true
+
+  [markup.goldmark.extensions]
+    table = true
+    linkify = true
+    strikethrough = true
+    taskList = true
+    typographer = true
+    autoHeadingID = true
 
   [markup.tableOfContents]
     startLevel = 2

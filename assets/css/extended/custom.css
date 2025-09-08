@@ -89,3 +89,55 @@ article.post-single h2.post-subtitle-post {
 body.dark .social-icons img {
   filter: brightness(0) invert(1); /* Invert for dark backgrounds */
 }
+
+
+/* =========================
+   About Page Profile Photo
+   ========================= */
+.single-content img.profile-photo,
+.post-content img.profile-photo {
+    float: left;                        /* align left of text */
+    width: 200px;                        /* desktop size */
+    height: 200px;                       /* keep square to make circle */
+    border-radius: 50% !important;       /* circular shape */
+    object-fit: cover;                   /* crop image proportionally */
+    margin: 0.25em 1.5em 1em 0;          /* spacing from text */
+    box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+    border: 2px solid var(--theme);      /* matches current theme color */
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    vertical-align: middle;
+}
+
+.single-content img.profile-photo:hover,
+.post-content img.profile-photo:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 992px) {
+    .single-content img.profile-photo,
+    .post-content img.profile-photo {
+        width: 160px;
+        height: 160px;
+        margin: 0 1rem 1rem 0;            /* reduce spacing */
+    }
+}
+
+@media (max-width: 768px) {
+    .single-content img.profile-photo,
+    .post-content img.profile-photo {
+        float: none;
+        display: block;
+        margin: 0 auto 1rem auto;         /* center on mobile */
+        width: 110px;                      /* mobile-friendly size */
+        height: 110px;
+    }
+}
+
+@media (max-width: 480px) {
+    .single-content img.profile-photo,
+    .post-content img.profile-photo {
+        width: 90px;                       /* very small screens */
+        height: 90px;
+    }
+}

@@ -84,7 +84,7 @@ it is a small tribute to the living fire of our language and literature, still b
 
 ---
 
-## ✍️ About the Autho 
+## ✍️ About the Author
 
 I am **Pirikli**, a writer exploring new forms of storytelling by weaving human creativity with AI.  
 My work seeks to bring the voices and stories of South Azerbaijan to a global stage, carrying light across languages and cultures.

@@ -21,7 +21,7 @@ showPostNavLinks = true          # Enable previous/next post navigation
 twitter = "pirikli"         # Replace with your Twitter handle
 facebook = "https://facebook.com/pirikli"  # Replace with Facebook page
 image = "images/seo-share.jpg"       # Path to social sharing image
-keywords = []                         # Post-specific SEO keywords
+keywords = ["posts, "blog_posts"]                         # Post-specific SEO keywords
 description = ""                      # Optional SEO description override
 
 # -----------------------

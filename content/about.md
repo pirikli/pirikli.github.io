@@ -1,74 +1,79 @@
 +++
 title = "About"
-date = 2025-09-03
+date = 2026-02-16
 draft = false
 +++
+
 <div class="profile-header">
   <img src="/images/profile.jpg" alt="Pirikli portrait" class="profile-photo">
-  <p>👋 Hi, I’m <strong><a href="https://pirikli.substack.com/">Pirikli</a></strong>—a multilingual poet, storyteller, and AI-augmented creative writer.</p>
-</div> 
-
-I grew up in **Pirik**, a small South Azerbaijani village where my love for stories began with my parents’ oral tales. That childhood spark carried me through university, poetry, blogging, and—after a detour into the corporate world—back to my true path: storytelling.
-
----
-
-## ✨ My Journey
-
-- **Childhood & Education** → Discovered the power of words and storytelling in Azerbaijani Turkic, Persian, English, and French.
-- **Corporate Years** → Learned discipline, languages, and technology while searching for a meaningful career.
-- **Awakening** → Realized that **writing + AI + languages** is my future-proof path.
-- **Commitment** → Today, I explore **AI-assisted storytelling, interactive fiction, poetic narratives, and digital publishing** while learning in public.
-
----
-
-## 🛠️ Skills & Interests
-
-- **Storytelling**: Creative writing, poetry, and narrative design.
-- **AI Tools**: ChatGPT, Claude, Sudowrite, Obsidian, GitHub Pages, Jekyll.
-- **Languages**: Azerbaijani (native), English, French, Persian.
-- **Tech**: Python basics, NLP concepts, Markdown, HTML/CSS.
-- **Future Focus**: AI-driven fiction, Web3 publishing, digital storytelling.
-
----
-
-## 🚀 Mission
-
-My goal is to **merge tradition with technology**—to pioneer AI-augmented storytelling that inspires readers, empowers writers, and expands the boundaries of creative expression.
-
----
-
-## 🤝 Let’s Connect
-
-I’m documenting my journey openly—sharing lessons, experiments, and stories.  
-If you care about storytelling, AI, languages, or creative writing, I’d love to connect:
-
-<div class="social-icons">
-  <a href="mailto:pirikliartan@gmail.com" title="Email" target="_blank" rel="noopener">
-    <img src="/icons/email.png" alt="Email" width="40" height="40">
-  </a>
-  <a href="https://instagram.com/pirikli_" title="Instagram" target="_blank" rel="noopener">
-    <img src="/icons/instagram.png" alt="Instagram" width="40" height="40">
-  </a>
-  <a href="https://linkedin.com/in/pirikli" title="LinkedIn" target="_blank" rel="noopener">
-    <img src="/icons/linkedin.png" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://pirikli.medium.com/" title="Medium" target="_blank" rel="noopener">
-    <img src="/icons/medium.png" alt="Medium" width="40" height="40">
-  </a>
-  <a href="https://pirikli.substack.com/" title="Substack" target="_blank" rel="noopener">
-    <img src="/icons/substack.png" alt="Substack" width="40" height="40">
-  </a>
-  <a href="https://t.me/pirikli" title="Telegram" target="_blank" rel="noopener">
-    <img src="/icons/telegram.png" alt="Telegram" width="40" height="40">
-  </a>
-  <a href="https://wa.me/+989145906951" title="WhatsApp" target="_blank" rel="noopener">
-    <img src="/icons/whatsapp.png" alt="WhatsApp" width="40" height="40">
-  </a>
-  <a href="https://youtube.com/@pirikli" title="YouTube" target="_blank" rel="noopener">
-    <img src="/icons/youtube.png" alt="YouTube" width="40" height="40">
-  </a>
+  <p>Hi, I’m <strong>Pirikli</strong> — a Python learner and builder focused on text processing and natural language workflows.</p>
 </div>
 
-- 🌍 Open to collaborations in **AI-driven creative writing & digital storytelling**.
+I’m currently building practical Python skills to work with text as data — parsing, cleaning, structuring, and exploring how language can be processed and understood by code. My goal is to become a reliable developer who can deliver useful tools and solutions that help make messy text more accessible, analyzable, and actionable.
 
-**Follow my journey—let’s shape the future of storytelling together.**
+---
+
+## Who I Am
+
+I come from a background in language and storytelling, and over time I’ve shifted my focus toward the engineering side of text — how it can be shaped, analyzed, and automated using Python.
+
+This site is my public record of growth: what I’m learning, the projects I’m building, and the tools I’m mastering along the way. I share what I discover as I go, with transparency and real-world examples.
+
+I am committed to learning in public and creating a visible, evidence-based portfolio that reflects **what I can actually do** with code — not just what I’ve studied.
+
+---
+
+## What I’m Working On
+
+I am actively building skills in:
+
+- **Python Fundamentals:** Core syntax, data types, control structures, file I/O, functions
+- **Text Processing:** Regex, string manipulation, structured text extraction
+- **Practical Tooling:** Writing scripts that solve real reuse problems with text
+- **Version Control:** Git and GitHub for project history, collaboration, and visibility
+- **Documentation:** Clear README files, examples, and usage instructions
+
+I am also exploring foundational NLP concepts and tooling, and I’m beginning to experiment with libraries such as **spaCy** and **Hugging Face Transformers** as part of my ongoing learning.
+
+---
+
+## What You’ll Find Here
+
+This website reflects my journey and learning process:
+
+- **Projects:** Practical repositories with runnable tools and scripts — the artifacts that show what I’ve accomplished.
+- **Learning Log:** Short posts and reflections that document what I’ve learned, how I solved specific problems, and what challenges I encountered.
+- **About:** A clear summary of who I am, what I can do today, and what I’m working toward.
+
+Every piece here is focused on building real, demonstrable technical capability.
+
+---
+
+## My Approach
+
+I believe in **visible progress**. That means:
+
+- Every project I publish includes a clear description of the problem it solves.
+- Each post shares not just results, but how I arrived at them.
+- I build things that someone else can run, reuse, or learn from.
+
+This approach isn’t about perfection. It’s about **practical growth and visible skill development**.
+
+---
+
+## Let’s Connect
+
+I’m open to conversations and collaborations in areas such as:
+
+- Text processing solutions
+- Automation scripts for real data
+- Early NLP workflows
+- Python engineering projects
+
+**_🤝 You can reach me at:_**
+
+[**Email**](mailto:pirikliartan@gmail.com) | [**GitHub:**](https://github.com/pirikli) | [**LinkedIn:**](https://linkedin.com/in/pirikli)
+
+---
+
+Thank you for visiting. Explore the **Projects** and **Learning Log** to see what I’m building — one step at a time.

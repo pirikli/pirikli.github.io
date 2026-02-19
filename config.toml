@@ -25,7 +25,7 @@ canonifyURLs = true
 # -----------------------
 [params]
   author = "Pirikli"
-  description = "AI-Augmented Creative Writer & Storyteller"
+  description = "Python developer specializing in text processing and natural language workflows."
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowBreadCrumbs = true
@@ -33,7 +33,7 @@ canonifyURLs = true
   ShowShareButtons = true
   homeInfoParams = true
   ShowToc = true
-  mainSections = ["posts","episodes"]
+  mainSections = ["projects", "learning"]
 
 # -----------------------
 # Profile Mode
@@ -41,31 +41,21 @@ canonifyURLs = true
 [params.profileMode]
   enabled = true
   title = "Pirikli"
-  subtitle = "AI-Augmented Storyteller"
+  subtitle = "Python developer focused on `text processing` and `NLP`"
   imageUrl = "images/profile.jpg"
-  imageWidth = 120
-  imageHeight = 120
+  imageWidth = 140
+  imageHeight = 140
   imageTitle = "Pirikli"
 
-  [[params.profileMode.buttons]]
-    name = "About"
-    url = "/about/"
 
   [[params.profileMode.buttons]]
-    name = "Contact"
-    url = "/contact/"
-
+    name = "Learning Log"
+    url = "/learning/"
+    
   [[params.profileMode.buttons]]
-    name = "Blog"
-    url = "/posts/"
-
-  [[params.profileMode.buttons]]
-    name = "Episodes"
-    url = "/episodes/"
-
-[[params.profileMode.buttons]]
-    name = "Resume"
-    url = "/resume/"
+    name = "GitHub"
+    url = "https://github.com/pirikli"
+    
 
 # -----------------------
 # Assets - CSS
@@ -109,40 +99,29 @@ paginatePath = "page"
   twitter = "https://x.com/pirikli"
   facebook = "https://facebook.com/pirikli"
   image = "images/seo-share.jpg"
-  keywords = ["AI Storytelling","Creative Writing","Episodes","Blog","Pirikli"]
-  description = "Explore AI-augmented storytelling, episodes, and creative experiments by Pirikli."
+  keywords = ["Python NLP","Text Processing","Regex","Local LLM","Applied NLP","Python Automation"]
+  description = "Python developer specializing in text processing and natural language workflows."
 
 # -----------------------
 # Menu Items
 # -----------------------
 [menu]
 
-  [[menu.main]]
+[[menu.main]]
+    identifier = "Experiments"
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+    
+[[menu.main]]
+    identifier = "learning"
+    name = "Learning Log"
+    url = "/learning/"
+    weight = 2
+    
+[[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
     weight = 3
 
-  [[menu.main]]
-    identifier = "episodes"
-    name = "Episodes"
-    url = "/episodes/"
-    weight = 4
-
-[[menu.main]]
-    identifier = "resume"
-    name = "Resume"
-    url = "/resume/"
-    weight = 5

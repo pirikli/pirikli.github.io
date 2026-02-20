@@ -98,7 +98,7 @@ paginatePath = "page"
   enable = true
   twitter = "https://x.com/pirikli"
   facebook = "https://facebook.com/pirikli"
-  image = "images/seo-share.jpg"
+  image = "images/profile.jpg"
   keywords = ["Python NLP","Text Processing","Regex","Local LLM","Applied NLP","Python Automation"]
   description = "Python developer specializing in text processing and natural language workflows."
 

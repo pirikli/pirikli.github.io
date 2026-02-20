@@ -1,6 +1,6 @@
 ---
 title: "Python developer focused on `text processing` and `NLP`"
-date: 2025-09-03
+date: 2026-02-20
 draft: false
 ---
 

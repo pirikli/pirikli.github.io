@@ -72,7 +72,7 @@ I’m open to conversations and collaborations in areas such as:
 
 **_🤝 You can reach me at:_**
 
-[**Email**](mailto:pirikliartan@gmail.com) | [**GitHub:**](https://github.com/pirikli) | [**LinkedIn:**](https://linkedin.com/in/pirikli)
+[**Email**](mailto:pirikliartan@gmail.com) | [**GitHub**](https://github.com/pirikli) | [**LinkedIn**](https://linkedin.com/in/pirikli)
 
 ---
 

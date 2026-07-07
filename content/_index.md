@@ -1,6 +1,8 @@
 ---
-title: "Python developer focused on `text processing` and `NLP`"
-date: 2026-02-20
+title: "Multilingual Writer & Storyteller"
+subtitle: "Poetry & Prose | Azerbaijani Turkic · Persian · English
+
+date: 2026-07-07
 draft: false
 ---
 

@@ -9,71 +9,50 @@ draft = false
   <p>Hi, I’m <strong>Pirikli</strong> — a Python learner and builder focused on text processing and natural language workflows.</p>
 </div>
 
-I’m currently building practical Python skills to work with text as data — parsing, cleaning, structuring, and exploring how language can be processed and understood by code. My goal is to become a reliable developer who can deliver useful tools and solutions that help make messy text more accessible, analyzable, and actionable.
+# Pirikli â€” Writer & Translator
+
+Multilingual writer and translator working across **Azerbaijani Turkic, Persian, and English.** I write, edit, and translate for people and small businesses who need words that work â€” official documents, translated content, video scripts, and personal writing.
 
 ---
 
-## Who I Am
+## Services
 
-I come from a background in language and storytelling, and over time I’ve shifted my focus toward the engineering side of text — how it can be shaped, analyzed, and automated using Python.
+**Official & Institutional Writing**
+CVs, cover letters, formal letters, reports, and correspondence â€” rewritten or drafted in clear, professional language that reads well to recruiters, institutions, and official bodies.
+*Starting at $20 per document (CV/cover letter); longer reports quoted after a quick look.*
 
-This site is my public record of growth: what I’m learning, the projects I’m building, and the tools I’m mastering along the way. I share what I discover as I go, with transparency and real-world examples.
+**Translation**
+Azerbaijani Turkic â‡„ Persian â‡„ English, for documents, letters, and short content.
+*Starting at $0.03â€“0.05 per word (~$8â€“15 per standard page). Rush turnaround available.*
 
-I am committed to learning in public and creating a visible, evidence-based portfolio that reflects **what I can actually do** with code — not just what I’ve studied.
+**Scripts & Captions for Short-Form Video**
+Hooks, scripts, and captions for Reels/TikTok/YouTube Shorts â€” written for how people actually watch, not how people read.
+*Starting at $15 per script/caption set.*
 
----
+**Occasional & Commemorative Poetry**
+Custom short poems for weddings, birthdays, tributes, and personal gifts â€” in Azerbaijani Turkic, Persian, or English.
+*Starting at $10 per piece.*
 
-## What I’m Working On
-
-I am actively building skills in:
-
-- **Python Fundamentals:** Core syntax, data types, control structures, file I/O, functions
-- **Text Processing:** Regex, string manipulation, structured text extraction
-- **Practical Tooling:** Writing scripts that solve real reuse problems with text
-- **Version Control:** Git and GitHub for project history, collaboration, and visibility
-- **Documentation:** Clear README files, examples, and usage instructions
-
-I am also exploring foundational NLP concepts and tooling, and I’m beginning to experiment with libraries such as **spaCy** and **Hugging Face Transformers** as part of my ongoing learning.
+*(Estimated starting rates â€” confirmed after a short conversation about scope. Not for trade/commercial ad copy â€” see Slogans note below.)*
 
 ---
 
-## What You’ll Find Here
+## Why work with me
 
-This website reflects my journey and learning process:
-
-- **Projects:** Practical repositories with runnable tools and scripts — the artifacts that show what I’ve accomplished.
-- **Learning Log:** Short posts and reflections that document what I’ve learned, how I solved specific problems, and what challenges I encountered.
-- **About:** A clear summary of who I am, what I can do today, and what I’m working toward.
-
-Every piece here is focused on building real, demonstrable technical capability.
+- **12 years** drafting official correspondence, briefings, and public communications at senior institutional level (Iran's Ministry of Interior)
+- **2nd Place, Kitab Yurdu Cultural Centre Turkic Literary Competition** (2024) â€” short story *Fenar (Lantern)*
+- Contributing writer, **QÄ±zÄ±l ÃœzÉ™n** â€” Turkish-Persian socio-political quarterly (2024â€“present)
+- 17 published poems (Hello Poetry); published in two print anthologies
+- All writing is human-written â€” AI tools are used for editing support only, never to generate the actual sentences
 
 ---
 
-## My Approach
+## How it works
 
-I believe in **visible progress**. That means:
-
-- Every project I publish includes a clear description of the problem it solves.
-- Each post shares not just results, but how I arrived at them.
-- I build things that someone else can run, reuse, or learn from.
-
-This approach isn’t about perfection. It’s about **practical growth and visible skill development**.
+1. Message me with what you need â€” a document, a script, a translation, an idea
+2. I'll tell you honestly what it needs and give you a fixed quote before starting
+3. You get a draft, one round of revisions included, and a final clean copy
 
 ---
 
-## Let’s Connect
-
-I’m open to conversations and collaborations in areas such as:
-
-- Text processing solutions
-- Automation scripts for real data
-- Early NLP workflows
-- Python engineering projects
-
-**_🤝 You can reach me at:_**
-
-[**Email**](mailto:pirikliartan@gmail.com) | [**GitHub**](https://github.com/pirikli) | [**LinkedIn**](https://linkedin.com/in/pirikli)
-
----
-
-Thank you for visiting. Explore the **Projects** and **Learning Log** to see what I’m building — one step at a time.
+ðŸ“© **[pirikliartan@gmail.com](mailto:pirikliartan@gmail.com)** Â· Instagram: [@pirikli_](https://instagram.com/pirikli_) Â· DMs open

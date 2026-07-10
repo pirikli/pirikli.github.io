@@ -1,7 +1,7 @@
 ---
-title: "🧑‍🎓Learning Log"
-subtitle: "Follow My Learning Journey"
-description: "Follow along with my journey through Python land..."
+title: "Learning Log"
+subtitle: "Follow My Writing Journey"
+description: "Notes from learning and practicing the craft of writing."
 date: "2025-09-04T17:00:00-07:00"
 draft: false
 toc: true
@@ -11,10 +11,9 @@ showPostNavLinks: true
 categories:
   - "episodes"
 tags:
-  - "Python"
-  - "Pythonic"
+  - "writing"
   - "learning"
-  - "Programming languages"
+  - "creative non-fiction"
 ---
 
-Welcome to my Pythonic journey.  
+Welcome to my writing journey.

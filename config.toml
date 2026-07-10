@@ -25,7 +25,7 @@ canonifyURLs = true
 # -----------------------
 [params]
   author = "Pirikli"
-  description = "Python developer specializing in text processing and natural language workflows."
+  description = "Multilingual writer and storyteller working in Azerbaijani Turkic, Persian, and English. Creative non-fiction, poetry, official writing, translation, and short-form scripts."
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowBreadCrumbs = true
@@ -41,7 +41,7 @@ canonifyURLs = true
 [params.profileMode]
   enabled = true
   title = "Pirikli"
-  subtitle = "Python developer focused on `text processing` and `NLP`"
+  subtitle = "Multilingual Writer & Storyteller — Turkic · Persian · English"
   imageUrl = "images/profile.jpg"
   imageWidth = 140
   imageHeight = 140
@@ -49,12 +49,12 @@ canonifyURLs = true
 
 
   [[params.profileMode.buttons]]
-    name = "Learning Log"
-    url = "/learning/"
+    name = "Read my writing"
+    url = "https://substack.com/pirikli"
     
   [[params.profileMode.buttons]]
-    name = "GitHub"
-    url = "https://github.com/pirikli"
+    name = "Freelance services"
+    url = "/about/"
     
 
 # -----------------------
@@ -99,8 +99,8 @@ paginatePath = "page"
   twitter = "https://x.com/pirikli"
   facebook = "https://facebook.com/pirikli"
   image = "images/profile.jpg"
-  keywords = ["Python NLP","Text Processing","Regex","Local LLM","Applied NLP","Python Automation"]
-  description = "Python developer specializing in text processing and natural language workflows."
+  keywords = ["Multilingual Writer","Storyteller","Creative Non-Fiction","Azerbaijani Turkic","Poetry","CV Writing","Ghostwriting"]
+  description = "Multilingual writer and storyteller working in Azerbaijani Turkic, Persian, and English."
 
 # -----------------------
 # Menu Items
@@ -108,20 +108,14 @@ paginatePath = "page"
 [menu]
 
 [[menu.main]]
-    identifier = "Experiments"
-    name = "Projects"
-    url = "/projects/"
-    weight = 1
-    
-[[menu.main]]
-    identifier = "learning"
-    name = "Learning Log"
-    url = "/learning/"
-    weight = 2
-    
-[[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About & Services"
     url = "/about/"
-    weight = 3
+    weight = 1
+
+[[menu.main]]
+    identifier = "substack"
+    name = "Writing"
+    url = "https://substack.com/pirikli"
+    weight = 2
 

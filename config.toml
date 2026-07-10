@@ -50,7 +50,7 @@ canonifyURLs = true
 
   [[params.profileMode.buttons]]
     name = "Read my writing"
-    url = "https://substack.com/pirikli"
+    url = "https://substack.com/@pirikli"
     
   [[params.profileMode.buttons]]
     name = "Freelance services"
@@ -116,6 +116,6 @@ paginatePath = "page"
 [[menu.main]]
     identifier = "substack"
     name = "Writing"
-    url = "https://substack.com/pirikli"
+    url = "https://substack.com/@pirikli"
     weight = 2
 

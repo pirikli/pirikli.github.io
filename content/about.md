@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = 2026-07-07
+date = 2026-07-14
 draft = false
 +++
 

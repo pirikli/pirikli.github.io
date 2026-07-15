@@ -6,26 +6,9 @@ defaultContentLanguage = "en"
 relativeURLs = true
 canonifyURLs = true
 
-# -----------------------
-# Languages
-# -----------------------
-#[languages]
-#  [languages.en]
-#    title = "Pirikli"
-#    languageName = "English"
-#    weight = 1
-#
-#  [languages.fr]
-#    title = "Pirikli FR"
-#    languageName = "Français"
-#    weight = 2
-
-# -----------------------
-# Site Parameters
-# -----------------------
 [params]
   author = "Pirikli"
-  description = "Multilingual writer and storyteller working in Azerbaijani Turkic, Persian, and English. Creative non-fiction, poetry, official writing, translation, and short-form scripts."
+  description = "Multilingual Communication Specialist working across Azerbaijani Turkic, Persian, Turkish, and English. Spoken and written communication, guest relations, and public & corporate liaison."
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowBreadCrumbs = true
@@ -33,45 +16,32 @@ canonifyURLs = true
   ShowShareButtons = true
   homeInfoParams = true
   ShowToc = true
-  mainSections = ["projects", "learning"]
 
-# -----------------------
-# Profile Mode
-# -----------------------
 [params.profileMode]
   enabled = true
   title = "Pirikli"
-  subtitle = "Multilingual Writer & Storyteller — Turkic · Persian · English"
+  subtitle = "Multilingual Communication Specialist — Spoken & Written Communication"
   imageUrl = "images/profile.jpg"
   imageWidth = 140
   imageHeight = 140
   imageTitle = "Pirikli"
 
+  [[params.profileMode.buttons]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/pirikli"
 
   [[params.profileMode.buttons]]
-    name = "Read my writing"
-    url = "https://substack.com/@pirikli"
-    
-  [[params.profileMode.buttons]]
-    name = "Freelance services"
-    url = "/about/"
-    
+    name = "Instagram"
+    url = "https://instagram.com/pirikli_"
 
-# -----------------------
-# Assets - CSS
-# -----------------------
+
 [params.assets]
   customCSS = ["css/custom.css"]
 
-# -----------------------
-# Markup / Rendering
-# -----------------------
 [markup]
   defaultMarkdownHandler = "goldmark"
-
   [markup.goldmark.renderer]
     unsafe = true
-
   [markup.goldmark.extensions]
     table = true
     linkify = true
@@ -79,43 +49,29 @@ canonifyURLs = true
     taskList = true
     typographer = true
     autoHeadingID = true
-
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 4
     ordered = false
 
-# -----------------------
-# Pagination
-# -----------------------
 paginate = 5
 paginatePath = "page"
 
-# -----------------------
-# SEO / Social Sharing
-# -----------------------
 [params.seo]
   enable = true
-  twitter = "https://x.com/pirikli"
-  facebook = "https://facebook.com/pirikli"
   image = "images/profile.jpg"
-  keywords = ["Multilingual Writer","Storyteller","Creative Non-Fiction","Azerbaijani Turkic","Poetry","CV Writing","Ghostwriting"]
-  description = "Multilingual writer and storyteller working in Azerbaijani Turkic, Persian, and English."
+  keywords = ["Multilingual Communication Specialist","Guest Relations","Public Relations","Corporate Liaison","Azerbaijani Turkic","Persian","Turkish","English"]
+  description = "Multilingual Communication Specialist working across Azerbaijani Turkic, Persian, Turkish, and English."
 
-# -----------------------
-# Menu Items
-# -----------------------
 [menu]
-
 [[menu.main]]
     identifier = "about"
-    name = "About & Services"
+    name = "About"
     url = "/about/"
     weight = 1
 
 [[menu.main]]
-    identifier = "substack"
-    name = "Writing"
-    url = "https://substack.com/@pirikli"
+    identifier = "cv"
+    name = "CV"
+    url = "https://docs.google.com/document/d/10cFlNYZAG7DRQZeejDcRk1CdCQc05HWL/edit?usp=drive_link&ouid=106570548915121525213&rtpof=true&sd=true"
     weight = 2
-

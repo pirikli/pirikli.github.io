@@ -1,7 +1,6 @@
 ---
-title: "Multilingual Writer & Storyteller"
-subtitle: "Poetry & Prose | Azerbaijani Turkic · Persian · English"
+title: "Pirikli | Multilingual Communication Specialist"
+subtitle: "Spoken & Written Communication | Guest Relations · Public & Corporate Liaison"
 date: 2026-07-07
 draft: false
 ---
-

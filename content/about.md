@@ -6,54 +6,31 @@ draft = false
 
 <div class="profile-header">
   <img src="/images/profile.jpg" alt="Pirikli portrait" class="profile-photo">
-  <p>Hi, I'm <strong>Pirikli</strong> — a multilingual writer and storyteller working across Azerbaijani Turkic, Persian, and English.</p>
+  <p>Hi, I'm <strong>Pirikli</strong> (Aboutaleb Nasiri Parouch) — a multilingual communication specialist working across Azerbaijani Turkic, Persian, Turkish, and English.</p>
 </div>
 
-## Creative Writing
+## What I do
 
-I write creative non-fiction, poetry, and short fiction rooted in Azerbaijani Turkic culture and lived experience — a literary tradition with almost no international representation in English. This is where my deepest work lives.
+Over a decade of senior experience delivering both spoken and written communication at Iran's Ministry of Interior — from daily face-to-face citizen liaison, VIP protocol, and crisis communication, to official correspondence and analytical briefings at ministerial level.
 
-- **2nd Place, Kitab Yurdu Cultural Centre Turkic Literary Competition** (2024) — short story *Fenar (Lantern)*
-- Contributing writer, **Qızıl Üzən** — Turkish-Persian socio-political quarterly (2024–present)
-- 17 published poems (Hello Poetry); published in two print anthologies
+I work across two channels that are really one skill:
 
----
+- **Spoken communication** — public & guest relations, VIP protocol, complaint resolution, crisis communication, cross-cultural liaison
+- **Written communication** — official correspondence, analytical reporting, institutional communication, translation
 
-## Services
+## Languages
 
-**Official & Professional Writing**
-Twelve years drafting official correspondence, briefings, and reports at senior institutional level for Iran's Ministry of Interior — precision writing where accuracy and tone carried real consequences. I bring that same discipline to CVs, cover letters, and professional documents, combining institutional writing craft with careful drafting and refinement to produce documents that read cleanly and land well with their intended reader.
-*Starting at $15 per document; happy to discuss scope first.*
+Azerbaijani Turkic — Native · Persian — C2 · Turkish — B1+ · English — B2 · French — A2
 
-**Translation**
-Azerbaijani Turkic ⇄ Persian ⇄ English. Years of translating poetry, song lyrics, and personal writing between all three languages — including literary translation of French songs into Azerbaijani Turkic — with an ear for what a phrase actually means, not just what it literally says.
-*Starting at $0.03–0.05 per word.*
+## Recognition
 
-**Scripts & Captions for Short-Form Video**
-Hooks, scripts, and captions for Reels/TikTok/YouTube Shorts — written for how people actually watch, not how people read.
-*Starting at $15 per script/caption set.*
+- **2nd Place, Kitab Yurdu Cultural Centre Turkic Literary Competition** (2024) — short story *Fenar (Lantern)*, published in anthology *Işığa Doğru*
+- Multilingual short-form video content (Instagram) — a village-etymology reel reached 20,000+ organic views with zero paid promotion
 
-**Occasional & Commemorative Poetry**
-Custom short poems for weddings, birthdays, tributes, and personal gifts — in Azerbaijani Turkic, Persian, or English.
-*Starting at $10 per piece.*
+## Why it matters
+
+Twelve years of high-stakes institutional writing and public-facing communication, where accuracy and tone carried real consequences — combined with a working command of four languages used daily, not studied in theory.
 
 ---
 
-## Why work with me
-
-- Twelve years of high-stakes institutional writing, where getting it wrong had real consequences
-- A national literary award and an ongoing byline in print
-- A working knowledge of three languages, used daily, not studied in theory
-- All writing is human-crafted — AI tools support the process, never replace the sentence
-
----
-
-## How it works
-
-1. Message me with what you need — a document, a script, a translation, an idea
-2. I'll give you an honest, fixed quote before starting
-3. You get a draft, one round of revisions included, and a final clean copy
-
----
-
-📩 **[pirikliartan@gmail.com](mailto:pirikliartan@gmail.com)** · Instagram: [@pirikli_](https://instagram.com/pirikli_)
+📩 **[pirikliartan@gmail.com](mailto:pirikliartan@gmail.com)** · [LinkedIn](https://linkedin.com/in/pirikli) · [Instagram: @pirikli_](https://instagram.com/pirikli_)

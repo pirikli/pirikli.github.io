@@ -19,8 +19,8 @@ canonifyURLs = true
 
 [params.profileMode]
   enabled = true
-  title = "Pirikli"
-  subtitle = "Multilingual Communication Specialist — Spoken & Written Communication"
+  title = "Aboutaleb Nasiri Parouch"
+  subtitle = "**Multilingual Communication Specialist — *Spoken* & *Written* Communication**"
   imageUrl = "images/profile.jpg"
   imageWidth = 140
   imageHeight = 140
